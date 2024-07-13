@@ -63,7 +63,7 @@ ip주소를 와이파이가 연결되어있는 노트북의 인터넷 주소에 
 opencv에 관한 설치방법은 인터넷에 많기 때문에 생략하고
 인터넷 통신을 가능하게 하는 curl라이브러리는 다음 글을 확인하길 바란다.
 
-<https://github.com/freshapple123/curl-library﻿>
+https://github.com/freshapple123/curl-library
 <br><br><br>
 첨부 파일의 C++ 코드를 참조하길 바란다. 
 
