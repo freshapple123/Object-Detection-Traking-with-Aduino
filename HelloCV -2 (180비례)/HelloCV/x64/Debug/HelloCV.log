@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(117,1): warning C4005: 'CURL_STATICLIB': 매크로 재정의
+  C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(117,1):
+  이전에 명령줄에서 선언된 'CURL_STATICLIB'
+  
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(158,21): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(159,22): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(185,24): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(200,22): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(200,22): warning C4244:         with
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(200,22): warning C4244:         [
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(200,22): warning C4244:             _Tp=float
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(200,22): warning C4244:         ]
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(201,22): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(201,22): warning C4244:         with
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(201,22): warning C4244:         [
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(201,22): warning C4244:             _Tp=float
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(201,22): warning C4244:         ]
+C:\Users\USER\Desktop\HelloCV -2 (180비례)\HelloCV\main.cpp(179,15): warning C4101: 'radius' :참조되지 않은 지역 변수입니다.
+  HelloCV.vcxproj -> C:\Users\USER\Desktop\HelloCV -2 (180비례)\x64\Debug\HelloCV.exe
